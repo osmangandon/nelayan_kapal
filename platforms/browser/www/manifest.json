@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "kapal",
+  "short_name": "kapal",
+  "version": "kapal.kapal.kapal",
+  "description": "kapal",
+  "author": "kapal",
+  "icons": [],
+  "start_url": "index.html"
+}
